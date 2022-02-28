@@ -1,0 +1,66 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width:100%;
+    background-color: white;
+
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+a.link-style {
+    color: black;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    background-color: aquamarine;
+    margin: 50px;
+}
+
+#expertise,  
+  #clients {
+    background-color: paleturquoise;
+}
+
+#expertise ul, #clients ul {
+    list-style-type: none;
+
+}
+
+#expertise li{
+    display: inline-block;
+    padding: 20px;
+}
+
+#clients li{
+    display: inline-block;
+    padding: 20px;
+}
+
+h2 {
+    background-color: darkturquoise;
+}
+
+
+h3 {
+    background-color: dodgerblue;
+}
+footer {
+    background-color: DeepPink;
+}
+
+body {
+    background-image: url("https://live.staticflickr.com/4416/36944201912_49bf234c14pg");
+    font-family: Helvetica;
+    text-align: center;
+}
